@@ -1,0 +1,39 @@
+==== _MyModule_
+__________________________________________
+
+This module will be shared through your library, feel free to modify it as you please.
+
+You can try it out with the mapping on the src/test/dw directory.
+
+= Index
+
+=== Functions
+[%header, cols="1,3"]
+|===
+| Name | Description
+| link:#helloworld-index [helloWorld] | 
+|===
+
+
+
+
+
+
+
+__________________________________________
+
+
+= Functions
+
+== **helloWorld** link:#index [↑↑]
+
+=== _helloWorld&#40;&#41;_
+
+
+__________________________________________
+
+
+
+
+
+
